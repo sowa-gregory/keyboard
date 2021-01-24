@@ -1,1 +1,4 @@
-Eniac.on_keyboard(5)
+Eniac.on_keyboard(function show(key: number) {
+    console.log("python:" + key)
+    
+})
