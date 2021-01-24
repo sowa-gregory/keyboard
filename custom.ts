@@ -14,7 +14,7 @@ enum MyEnum {
 /**
  * Custom blocks
  */
-//% weight=100 color=#0fbc77
+//% weight=100 color=#0fbcff
 //% icon="\uf11c"
 
 namespace Eniac {
