@@ -14,8 +14,9 @@ enum MyEnum {
 /**
  * Custom blocks
  */
-//% weight=100 color=#0fbc11 icon=""
-namespace Eniac {
+//% weight=200 color=#0fbc11 
+//% icon="\uf11c"
+namespace Eniac_Keyboard {
 
 let key_callback:(key:number)=>void
 let BUTTONS_ID = [Button.A, Button.B]
