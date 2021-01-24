@@ -14,7 +14,9 @@ enum MyEnum {
 /**
  * Custom blocks
  */
-//% weight=100 color=#0fbc11 icon=""
+//% weight=100 color=#0fbc77
+//% icon="\uf11c"
+
 namespace Eniac {
 
 let key_callback:(key:number)=>void
@@ -83,8 +85,6 @@ function process_keyboard() {
     }
     emitEvents()
 }
-
-
     /**
      * TODO: Register callback function to receive keyboard events
      * @param fun function to be registered
